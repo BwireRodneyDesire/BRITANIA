@@ -1,0 +1,68 @@
+
+[12:47:28 UTC] [SUCCESS] Updated Elementor data successfully | Context: {"post_id":532}
+[12:47:28 UTC] [INFO] Cleared Elementor cache | Context: {"post_id":532}
+[12:47:28 UTC] [SUCCESS] Completed processing Elementor post | Context: {"post_id":532}
+[12:47:28 UTC] [INFO] Processing Elementor post | Context: {"post_id":533}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":3}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":1}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":1}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":0}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":0}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":1}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":1}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":2}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":2}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":0}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":0}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":0}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":0}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":2}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":1}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":0}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":0}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":1}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":2}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":1}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":1}
+[12:47:28 UTC] [INFO] Processing Elementor widgets | Context: {"widget_count":0}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":0}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":1}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":1}
+[12:47:28 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":3}
+[12:47:28 UTC] [SUCCESS] Updated Elementor data successfully | Context: {"post_id":533}
+[12:47:28 UTC] [INFO] Cleared Elementor cache | Context: {"post_id":533}
+[12:47:28 UTC] [SUCCESS] Completed processing Elementor post | Context: {"post_id":533}
+[12:47:28 UTC] [INFO] Processing Elementor post | Context: {"post_id":1031}
+[12:47:28 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":1031,"has_version":false,"has_data":false}
+[12:47:28 UTC] [SUCCESS] Elementor batch processing completed successfully | Context: {"posts_processed":6}
+[12:47:28 UTC] [INFO] Misc batch processing started
+[12:47:28 UTC] [INFO] Misc batch processing skipped (not AI template)
+[12:47:28 UTC] [INFO] Customizer image download batch processing started
+[12:47:28 UTC] [INFO] Starting customizer image processing | Context: {"customizer_options_count":2210}
+[12:47:28 UTC] [INFO] Processing customizer image | Context: {"original_url":"https:\/\/websitedemos.net\/sierra-industry-02\/wp-content\/uploads\/sites\/340\/2018\/12\/sierra_business.svg"}
+[12:47:28 UTC] [INFO] Starting image import for URL: https://websitedemos.net/sierra-industry-02/wp-content/uploads/sites/340/2018/12/sierra_business.svg
+[12:47:28 UTC] [INFO] Image already exists in media library (ID: 204), skipping download
+[12:47:28 UTC] [SUCCESS] Customizer image processed successfully | Context: {"original_url":"https:\/\/websitedemos.net\/sierra-industry-02\/wp-content\/uploads\/sites\/340\/2018\/12\/sierra_business.svg","downloaded_url":"http:\/\/bail.local\/wp-content\/uploads\/2018\/12\/sierra_business.svg","image_data":{"id":"204","url":"http:\/\/bail.local\/wp-content\/uploads\/2018\/12\/sierra_business.svg"}}
+[12:47:28 UTC] [SUCCESS] Customizer image download completed | Context: {"options_processed":2210,"images_processed_successfully":1,"images_failed":0,"total_images_attempted":1}
+[12:47:28 UTC] [SUCCESS] Customizer batch import method completed
+[12:47:28 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":16,"offset":10,"chunk_size":10}
+[12:47:28 UTC] [INFO] Processing CE image batch | Context: {"batch_size":6,"offset":10}
+[12:47:28 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":180,"file":"automotive.jpg"}
+[12:47:28 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":182,"file":"product.jpg"}
+[12:47:29 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":184,"file":"img-05-free-img-1.jpg"}
+[12:47:29 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":429,"file":"crane-handle.jpg"}
+[12:47:30 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":440,"file":"sierra-industry-yoast.jpg"}
+[12:47:30 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":523,"file":"glass-building.jpg"}
+[12:47:31 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":6,"errors":0,"new_offset":20}
+[12:47:31 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":16,"offset":20,"chunk_size":10}
+[12:47:31 UTC] [INFO] Processing CE image batch | Context: {"batch_size":0,"offset":20}
+[12:47:31 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":0,"errors":0,"new_offset":30}
+[12:47:31 UTC] [INFO] ---- Processing Images from Widgets -----
+[12:47:31 UTC] [INFO] ---- Processing Contact Form Mapping from Text Widgets -----
+[12:47:31 UTC] [INFO] ---- Processing WordPress Posts / Pages - for Elementor ----
+[12:47:31 UTC] [INFO] No Elementor pages found that need processing.
+[12:47:31 UTC] [INFO] ---- Processing batch process for Customizer start ----
+[12:47:31 UTC] [INFO] Starting image import for URL: http://bail.local/wp-content/uploads/2018/12/sierra_business.svg
+[12:47:31 UTC] [WARNING] Invalid image URL provided: http://bail.local/wp-content/uploads/2018/12/sierra_business.svg
+[12:47:31 UTC] [INFO] ---- Processing batch process for Customizer done ----
+[12:47:34 UTC] [INFO] Import process completed. Cleaning up log file option.
